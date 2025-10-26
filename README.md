@@ -10,6 +10,10 @@ DOMAIN: FULL STACK WEB DEVELOPMENT
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
+OUTPUT:
+
+<img width="1919" height="963" alt="Image" src="https://github.com/user-attachments/assets/a2132e12-7bbd-46df-b6d7-0bd1d6857456" />
+
 
 Description :The Real-Time Chat Application is a full-stack web project developed using Node.js, Express.js, and Socket.IO that enables seamless, instant communication between multiple users in a shared online chat environment. The main goal of this project is to demonstrate how real-time, bidirectional data transfer can be implemented between the client and server using modern web technologies. This project showcases both frontend and backend integration, dynamic user interaction, and efficient event-based communication — all essential concepts in real-world full-stack web development.
 
